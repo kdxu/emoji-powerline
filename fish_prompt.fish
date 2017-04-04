@@ -24,9 +24,9 @@ set icon_home \U1F3E0$tab
 #set icon_root '/'
 #set icon_home '~'
 
-set colour_path 22AA44
-set colour_dirty AAEE44
-set colour_clean 1E8A70
+set colour_path blue
+set colour_dirty green
+set colour_clean yellow
 
 set segment_separator \uE0B0
 set segment_splitter \uE0B1
